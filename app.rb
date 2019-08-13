@@ -20,7 +20,6 @@ class App < Sinatra::Base
 
   get "/multiplynumbers" do
     params[:num1/:num2]
-
   end
 
 end
